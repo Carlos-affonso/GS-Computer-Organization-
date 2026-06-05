@@ -2,9 +2,9 @@
 
 ## Integrantes
 
-* Nome completo do integrante 1 - RM
-* Nome completo do integrante 2 - RM
-* Nome completo do integrante 3 - RM
+CARLOS EDUARDO AFFONSO — RM: 569676
+IGOR MASSONE MONTEIRO — RM: 573853
+GABRIEL OLIVEIRA GUSMÃO FLORENCIO DOS SANTOS — RM: 573747
 
 ## Introdução
 
