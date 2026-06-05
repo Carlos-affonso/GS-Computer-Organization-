@@ -259,28 +259,27 @@ A simulação demonstrou que o sistema é capaz de coletar, processar e exibir d
 
 ### Circuito completo
 
-Inserir aqui o print do circuito completo no Tinkercad.
+Print do circuito completo desenvolvido no Tinkercad, contendo Arduino Uno, display LCD, sensores, LEDs, buzzer e protoboard.
 
-```markdown
 ![Circuito completo](assets/circuito-completo.png)
-```
 
-### Display em funcionamento
+### Sistema em estado normal
 
-Inserir aqui um print do display exibindo os dados monitorados.
+Print da simulação com o sistema operando em condição segura, com o LED verde acionado e os dados exibidos no display.
 
-```markdown
-![Display em funcionamento](assets/estado-normal.png)
-```
+![Sistema em estado normal](assets/estado-normal.png)
 
-### Estado crítico
+### Sistema em estado de atenção
 
-Inserir aqui um print demonstrando o LED vermelho ou buzzer em situação crítica.
+Print da simulação com o sistema indicando condição de atenção, representada pelo LED amarelo.
 
-```markdown
-![Estado crítico](assets/estado-critico.png)
-```
+![Sistema em estado de atenção](assets/estado-atencao.png)
 
+### Sistema em estado crítico
+
+Print da simulação com o sistema indicando condição crítica, representada pelo LED vermelho e pelo acionamento do buzzer.
+
+![Sistema em estado crítico](assets/estado-critico.png)
 ## Melhorias Futuras
 
 Como melhorias futuras, o projeto poderia incluir:
