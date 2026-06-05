@@ -270,7 +270,7 @@ Inserir aqui o print do circuito completo no Tinkercad.
 Inserir aqui um print do display exibindo os dados monitorados.
 
 ```markdown
-![Display em funcionamento](assets/display-funcionando.png)
+![Display em funcionamento](assets/estado-normal.png)
 ```
 
 ### Estado crítico
