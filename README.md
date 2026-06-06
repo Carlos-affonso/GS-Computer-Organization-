@@ -306,7 +306,7 @@ Com os resultados obtidos, foi possível compreender a importância da integraç
 ## Links do Projeto
 
 * Projeto no Tinkercad: [inserir link aqui](https://www.tinkercad.com/things/dVITVdblSOL-copy-of-gs-computer-organization-and-architecture/editel?returnTo=%2Fdashboard%2Fdesigns%2Fcircuits&sharecode=hP23dh7cn47WiljzDjqCcMR7C2oRIqwMQXkavfdQT54)
-* Vídeo no YouTube: inserir link aqui
+* Vídeo no YouTube: [inserir link aqui](https://youtu.be/DKJGrwpJx18)
 
 
 ## Arquivos do Repositório
